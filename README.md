@@ -7,7 +7,7 @@
 
 ## Latihan 1
 
-![Gambar 1](screnshot/1.png)
+![Gambar 1](screenshot/1.png)
 
 ## Penjelasan
 
@@ -55,7 +55,7 @@
 Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal {} untuk menempatkan variable sebelumnya.
 
 ```python
-	umur = 24
+    umur = 24
     txt = "\nHello, nama saya john, dan umur saya adalah {0} tahun\n"
     print(txt.format(umur))
 ```
