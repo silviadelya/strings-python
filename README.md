@@ -7,7 +7,7 @@
 
 ## Latihan 1
 
-![img] screnshot/1.png
+![Gambar 1](screnshot/1.png)
 
 ## Penjelasan
 
@@ -44,11 +44,11 @@
 ```
 ## Output Program
 
-![img] screenshot/2.png
+![Gambar 2](screenshot/2.png)
 
 ## Latihan 2
 
-![img] screenshot/3.png
+![Gambar 3](screenshot/3.png)
 
 ## Penjelasan
 
@@ -62,6 +62,6 @@ Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal {} untuk men
 
 ## Output Program
 
-![img] screenshot/4.png
+![Gambar 4](screenshot/4.png)
 
 ## Sekian Terimakasih
